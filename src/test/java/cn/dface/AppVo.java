@@ -21,5 +21,5 @@ package cn.dface;
  *
  */
 public class AppVo {
-
+    private Integer appId;
 }
