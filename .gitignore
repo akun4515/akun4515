@@ -1,1 +1,10 @@
-/target/
+/.settings
+*/.settings
+*/target
+.project
+.classpath
+.class
+.DS_Store
+target/
+/shell/*
+aone.web/src/main/java/cn/dface/aone/web/api/v1/TestController.java
